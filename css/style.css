@@ -621,6 +621,8 @@ h5 {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.3em;
+  --tw-text-opacity: 1;
+  color: rgb(0 0 0 / var(--tw-text-opacity));
 }
 
 .btn:hover {
